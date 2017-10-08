@@ -2,3 +2,6 @@
 Introductionary sample of html, JS and CSS
 
 ## Look at script.js file for intro to JavaScript
+
+###Paul Jerchaflie added this line
+test
